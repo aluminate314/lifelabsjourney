@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Nunito);
 
 body {
-    background-color: #01b4bc;
+    background-color: 'white';
     font-family: 'Nunito';
     padding: 0;
     margin: 0;
@@ -12,12 +12,12 @@ section  {
     place-items: center;
     align-content: center;
     min-height: 100vh;
-    color: #f6d51f;
+    color: #01b4bc;
 }
 
 h1 {
     text-align: center;
-    color: #f6d51f;
+    color: #01b4bc;
 }
 
 .hidden {
